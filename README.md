@@ -20,7 +20,7 @@ This repository contains the implementation of an X-ray automated threat detecti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AmrHuss/Xray-automated-threat-detection.git # Will Upload repo soon.
+git clone https://github.com/AmrHuss/XrayThreat.git # Will Upload repo soon.
 cd XrayDetector
 ```
 
